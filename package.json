@@ -1,0 +1,14 @@
+{
+  "name": "babel-plugin-modules-bar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:matthewp/babel-plugin-modules-bar.git",
+  "author": "Matthew Phillips <matthew@matthewphillips.info>",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "babel-core": "^6.24.1"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  }
+}
