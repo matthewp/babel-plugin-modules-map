@@ -1,8 +1,8 @@
 {
-  "name": "babel-plugin-modules-bar",
+  "name": "babel-plugin-modules-map",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:matthewp/babel-plugin-modules-bar.git",
+  "repository": "git@github.com:matthewp/babel-plugin-modules-map.git",
   "author": "Matthew Phillips <matthew@matthewphillips.info>",
   "license": "BSD-2-Clause",
   "devDependencies": {
